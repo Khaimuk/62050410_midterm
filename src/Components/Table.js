@@ -181,7 +181,7 @@ const Table = ({ products }) => {
             <th scope="col">province</th>
 
             <th scope="col" style={{ width: "400px" }}>
-              new_case{" "}
+              New_case{" "}
               <span role="button" className="" onClick={onSortClick}>
                 🔼
               </span>
@@ -190,7 +190,7 @@ const Table = ({ products }) => {
               </span>
             </th>
             <th scope="col">
-              total_case
+              Total_case
               <span role="button" className="" onClick={onSortClick3}>
                 🔼
               </span>
@@ -199,7 +199,7 @@ const Table = ({ products }) => {
               </span>
             </th>
             <th scope="col">
-              new_death
+              New_death
               <span role="button" className="" onClick={onSortClick5}>
                 🔼
               </span>
@@ -217,7 +217,7 @@ const Table = ({ products }) => {
               </span>
             </th>
             <th scope="col">
-              new_case_excludeabroad
+              New_case_excludeabroad
               <span role="button" className="" onClick={onSortClick9}>
                 🔼
               </span>
